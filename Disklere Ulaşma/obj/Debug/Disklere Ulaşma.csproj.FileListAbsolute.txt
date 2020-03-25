@@ -1,0 +1,30 @@
+C:\Users\murat\Desktop\ \6 C# 2013\Disklere Ulaşma\Disklere Ulaşma\bin\Debug\Disklere Ulaşma.exe.config
+C:\Users\murat\Desktop\ \6 C# 2013\Disklere Ulaşma\Disklere Ulaşma\bin\Debug\Disklere Ulaşma.exe
+C:\Users\murat\Desktop\ \6 C# 2013\Disklere Ulaşma\Disklere Ulaşma\bin\Debug\Disklere Ulaşma.pdb
+C:\Users\murat\Desktop\ \6 C# 2013\Disklere Ulaşma\Disklere Ulaşma\obj\Debug\Disklere Ulaşma.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\ \6 C# 2013\Disklere Ulaşma\Disklere Ulaşma\obj\Debug\Disklere_Ulaşma.Form1.resources
+C:\Users\murat\Desktop\ \6 C# 2013\Disklere Ulaşma\Disklere Ulaşma\obj\Debug\Disklere_Ulaşma.Properties.Resources.resources
+C:\Users\murat\Desktop\ \6 C# 2013\Disklere Ulaşma\Disklere Ulaşma\obj\Debug\Disklere Ulaşma.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \6 C# 2013\Disklere Ulaşma\Disklere Ulaşma\obj\Debug\Disklere Ulaşma.exe
+C:\Users\murat\Desktop\ \6 C# 2013\Disklere Ulaşma\Disklere Ulaşma\obj\Debug\Disklere Ulaşma.pdb
+F:\x\2 BİLGİNER\5 NCFKR\1 BLOG\1 NCFKR PROGRAMLAMA ÜSSÜ\1 C# ÖĞRENME GÜNLÜĞÜ\2 C# GÖRSEL PROGRAMLAMA\2013\DİSKLERE ULAŞMA\Disklere Ulaşma\bin\Debug\Disklere Ulaşma.exe.config
+F:\x\2 BİLGİNER\5 NCFKR\1 BLOG\1 NCFKR PROGRAMLAMA ÜSSÜ\1 C# ÖĞRENME GÜNLÜĞÜ\2 C# GÖRSEL PROGRAMLAMA\2013\DİSKLERE ULAŞMA\Disklere Ulaşma\obj\Debug\Disklere Ulaşma.exe
+F:\x\2 BİLGİNER\5 NCFKR\1 BLOG\1 NCFKR PROGRAMLAMA ÜSSÜ\1 C# ÖĞRENME GÜNLÜĞÜ\2 C# GÖRSEL PROGRAMLAMA\2013\DİSKLERE ULAŞMA\Disklere Ulaşma\obj\Debug\Disklere Ulaşma.pdb
+E:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\DİSKLERE ULAŞMA\Disklere Ulaşma\bin\Debug\Disklere Ulaşma.exe.config
+E:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\DİSKLERE ULAŞMA\Disklere Ulaşma\obj\Debug\Disklere Ulaşma.exe
+E:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\DİSKLERE ULAŞMA\Disklere Ulaşma\obj\Debug\Disklere Ulaşma.pdb
+E:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\DİSKLERE ULAŞMA\Disklere Ulaşma\bin\Debug\Disklere Ulaşma.exe
+E:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\DİSKLERE ULAŞMA\Disklere Ulaşma\bin\Debug\Disklere Ulaşma.pdb
+E:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\DİSKLERE ULAŞMA\Disklere Ulaşma\obj\Debug\Disklere Ulaşma.csprojResolveAssemblyReference.cache
+E:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\DİSKLERE ULAŞMA\Disklere Ulaşma\obj\Debug\Disklere_Ulaşma.Form1.resources
+E:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\DİSKLERE ULAŞMA\Disklere Ulaşma\obj\Debug\Disklere_Ulaşma.Properties.Resources.resources
+E:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\DİSKLERE ULAŞMA\Disklere Ulaşma\obj\Debug\Disklere Ulaşma.csproj.GenerateResource.Cache
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\DİSKLERE ULAŞMA\Disklere Ulaşma\bin\Debug\Disklere Ulaşma.exe.config
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\DİSKLERE ULAŞMA\Disklere Ulaşma\obj\Debug\Disklere Ulaşma.exe
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\DİSKLERE ULAŞMA\Disklere Ulaşma\obj\Debug\Disklere Ulaşma.pdb
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\DİSKLERE ULAŞMA\Disklere Ulaşma\bin\Debug\Disklere Ulaşma.exe
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\DİSKLERE ULAŞMA\Disklere Ulaşma\bin\Debug\Disklere Ulaşma.pdb
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\DİSKLERE ULAŞMA\Disklere Ulaşma\obj\Debug\Disklere Ulaşma.csprojResolveAssemblyReference.cache
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\DİSKLERE ULAŞMA\Disklere Ulaşma\obj\Debug\Disklere_Ulaşma.Form1.resources
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\DİSKLERE ULAŞMA\Disklere Ulaşma\obj\Debug\Disklere_Ulaşma.Properties.Resources.resources
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\DİSKLERE ULAŞMA\Disklere Ulaşma\obj\Debug\Disklere Ulaşma.csproj.GenerateResource.Cache
